@@ -1,6 +1,6 @@
 function preload(){
   font = loadFont('coast-Regular.otf');
-    bgImg = loadImage('broadwaypink.png');
+    bgImg = loadImage('./img/broadwaypink.png');
 }  
 function setup() {
   createCanvas(windowWidth,windowHeight);
