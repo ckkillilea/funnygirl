@@ -1,6 +1,6 @@
 function preload(){
   font = loadFont('coast-Regular.otf');
-    bgImg = loadImage('../img/barbsinging.jpg');
+    bgImg = loadImage('img/barbsinging.jpg');
 }  
 
 let bgImg;

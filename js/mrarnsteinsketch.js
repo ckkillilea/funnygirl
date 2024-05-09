@@ -5,9 +5,9 @@ let textScale, textR, textG, textB;
 let state = 1;
 
 function preload(){
-  font = loadFont('../coast-Regular.otf');
-  img1 = loadImage('../img/funnygirlred.jpg');  
-  img2 = loadImage('../img/bridalbarbara.jpg');  
+  font = loadFont('coast-Regular.otf');
+  img1 = loadImage('img/funnygirlred.jpg');  
+  img2 = loadImage('img/bridalbarbara.jpg');  
 }
 function setup() {
   createCanvas(windowWidth, windowHeight);

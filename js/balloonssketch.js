@@ -33,7 +33,7 @@ var Bubble = (function () {
 
 function preload(){
   font = loadFont('coast-Regular.otf');
-  bgImg = loadImage('../img/broadwaypink.png');
+  bgImg = loadImage('img/broadwaypink.png');
 }
 
 function setup() {
